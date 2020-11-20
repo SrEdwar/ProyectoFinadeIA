@@ -1,0 +1,7 @@
+Este Proyecto fue realizado en django, Contiene un modelo de prediccion y uno de analisis de sentimiento, (no puede cargar el modelo ya que git no lo soporta )
+
+El archivo Modelos es la aplicacion de django solo necesitas copiar el archivo views(todo el codigo esta ahi), init
+En el archivo ProyectoFinal es el proyecto de django solo necesitas copiar urls y copiar la parte final de settings.
+En la carpeta Static, hay dos carpetas una para guardar las imagenes subidas (imagenes) y la otra es uno logos que uso en el html
+El archivo sentimentdataset.csv es necesario para el modelo de analisis de sentimiento
+Y la carpeta templates estan las diferentes vistas.
